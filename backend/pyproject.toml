@@ -1,0 +1,7 @@
+[tool.poetry]
+name = "cost-track"
+version = "0.3.0"
+description = ""
+authors = ["haideiartem@gmail.com"]
+readme = "README.md"
+packages = []
